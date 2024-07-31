@@ -10,6 +10,6 @@
    - Implemented and optimized a logisitic regression, decision tree, and neural network
    - Analyzed results from all 3 models to determine the best-performing model
   
-Check out the Jypter Notebook file : WHR_models_project.ipynb <br />
+Check out the Jupyter Notebook file : WHR_models_project.ipynb <br />
 Check out the World Happiness Report data set I used : WHR_dataset.csv
 ## Outcome ⭐: Logisitic regression was the best performing model! Reached an accuracy of 0.872 and a loss of 0.303!
